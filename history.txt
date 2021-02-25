@@ -1,5 +1,9 @@
 --------------------------------------------------------------------------------------------------
 [commit]
+Update 2021-02-25 #2
+- recheck node packages (due to pull requests).
+
+[commit]
 Update 2021-02-25 #1
 - Update history.txt
 
